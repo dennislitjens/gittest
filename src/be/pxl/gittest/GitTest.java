@@ -7,6 +7,7 @@ public class GitTest {
 		System.out.println("bannazad");
 		System.out.println("Hello World 2");
 		System.out.println("bannan");
+		System.out.println("new");
 	}
 
 }
